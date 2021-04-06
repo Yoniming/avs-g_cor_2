@@ -1,0 +1,13 @@
+[INFO]  ******************************************************************************************
+[INFO]  time profile list:
+
+[INFO]  process                                 elapsed(s)
+[INFO]  DecodeTime                                  0.22
+[INFO]  NameTime                                    0.00
+[INFO]  QualTime                                    0.22
+[INFO]  ReadTime                                    0.00
+[INFO]  RecoverTime                                 0.00
+[INFO]  SeqLenTime                                  0.00
+[INFO]  SeqTime                                     0.00
+[INFO]  WriteTime                                   0.00
+[INFO]  ******************************************************************************************
